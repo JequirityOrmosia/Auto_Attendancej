@@ -42,7 +42,7 @@
 
     ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817192122.png)
 
-4. 查看运行情况
+4. 查看运行情况 
 
     打开Actions页面，此时在workflows中应该出现了正在运行的工作流。当提交文件时会马上进行一次打卡，以后将会默认在每天的7:05进行打卡
 
